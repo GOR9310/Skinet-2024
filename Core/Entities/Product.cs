@@ -8,7 +8,7 @@ public class Product : BaseEntity
 
     public decimal Price { get; set; }
 
-    public required string PictureURL { get; set; }
+    public required string PictureUrl { get; set; }
 
     public required string Type { get; set; }
 
